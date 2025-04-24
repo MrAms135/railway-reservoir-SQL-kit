@@ -3,8 +3,9 @@ SQL for Data Analysis 🚄
 This project simulates a railway reservation system using MySQL. It demonstrates core relational database concepts such as table creation, relationships, joins, aggregate queries, subqueries, and views.
 
 📂 Tables Used
-[Download Folder from Google Drive](https://drive.google.com/drive/folders/1EU1rhvYs3DP_8yNyrxA1W3k8qIEglxmR?usp=sharing)
-
+<a href="https://drive.google.com/drive/folders/1EU1rhvYs3DP_8yNyrxA1W3k8qIEglxmR?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Folder-blue.svg" alt="Download Folder">
+</a>
 
 Customer: The individual or entity using the train service, typically a passenger who purchases tickets.
 
