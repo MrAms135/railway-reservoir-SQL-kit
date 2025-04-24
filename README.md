@@ -4,17 +4,17 @@ This project simulates a railway reservation system using MySQL. It demonstrates
 
 📂 Tables Used
 <a href="https://drive.google.com/drive/folders/1EU1rhvYs3DP_8yNyrxA1W3k8qIEglxmR?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download-Folder-blue.svg" alt="Download Folder">
+  <img src="https://img.shields.io/badge/Download-Folder-red.svg" alt="Download Folder">
 </a>
 
-Customer: The individual or entity using the train service, typically a passenger who purchases tickets.
+1)Customer: Stores information about passengers using the train services, including personal and contact details.
 
-Ticket: A document or digital pass that serves as proof of payment for train travel.
+2)Ticket: Contains details about train tickets issued to customers, including ticket number, travel date, and fare.
 
-Payment: The process by which customers pay for tickets or services, using various payment methods.
+3)Payment: Tracks the payment transactions for tickets, including the payment method, amount, and status.
 
-Trainservice: The operation and management of train routes, schedules, and customer-related services.
+4)Trainservice: Manages the details of train services, including routes, schedules, and operational information.
 
-Seating: The arrangement of available seats on the train, often including options for reservation.
+5)Seating: Holds data about seat availability and reservations for each train service.
 
-Trainoperator: The person or company responsible for operating the train and ensuring its safe and timely travel.
+6)Trainoperator: Stores information about the train operators, including their names, roles, and operational responsibilities.
